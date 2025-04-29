@@ -39,3 +39,6 @@ For example:
 git clone https://github.com/ArchanaHublikar/image-resize-with-hand-gestures.git
 cd hand-gesture-image-resizing
 pip install -r requirements.txt
+
+LICENSE
+MIT © 2025 Archana Hublikar
